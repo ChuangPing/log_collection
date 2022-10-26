@@ -1,0 +1,15 @@
+[
+{
+"path":"F:/Microservice/logagentProject/logagent_v2/logs/my.log",
+"topic":"app_log"
+},
+{
+"path":"F:/Microservice/logagentProject/logagent_v2/logs/my1.log",
+"topic":"admin_log"
+},
+  {
+    "path":"F:/Microservice/logagentProject/logagent_v2/logs/my2.log",
+    "topic":"qq_log"
+  }
+]
+
